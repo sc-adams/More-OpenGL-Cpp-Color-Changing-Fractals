@@ -3,3 +3,7 @@
 This is a C++ fractal animation programmed in C++ with OpenGL.
 
 ![Spinning Flower final Rainbow Petals change](https://github.com/user-attachments/assets/bbf7f02c-e723-49fa-a44d-8048f2dd4cea)
+
+## References
+
+Check out my [references here](https://github.com/sc-adams/Cross-Platform-Game-Engine-CPP/edit/main/references.md).
